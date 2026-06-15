@@ -90,7 +90,7 @@ I'm a pre-final year **B.Tech Information Technology** student with strong profi
 
 ## 📣 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/karishma-sivakumar">
+  <a href="https://www.linkedin.com/in/karishma-sivakumar-25a3a4300/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:karishmask2462005@gmail.com">
