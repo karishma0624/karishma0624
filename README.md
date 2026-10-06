@@ -7,7 +7,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a pre-final year **B.Tech Information Technology** student with strong proficiency in Python, JavaScript, and modern web technologies. My focus is on building scalable fullstack applications, developing REST APIs, and integrating AI/ML models including computer vision and LLM-based systems.
+I'm a final year **B.Tech Information Technology** student with strong proficiency in Python, JavaScript, and modern web technologies. My focus is on building scalable fullstack applications, developing REST APIs, and integrating AI/ML models including computer vision and LLM-based systems.
 
 ---
 
